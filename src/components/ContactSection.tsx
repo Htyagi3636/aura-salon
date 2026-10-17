@@ -17,7 +17,7 @@ export const ContactSection: React.FC = () => {
                 Visit Our Sanctuary
               </h2>
               <p className="text-sm text-[#6E6860] leading-relaxed">
-                Conveniently situated in Indirapuram, welcoming discerning patrons from Noida, Ghaziabad, and East Delhi.
+                Located at Gulmohar Greens, Mohan Nagar, welcoming guests from across Ghaziabad and the Delhi NCR.
               </p>
             </div>
 
@@ -140,7 +140,7 @@ export const ContactSection: React.FC = () => {
                     {SALON_CONFIG.fullName}
                   </p>
                   <p className="text-xs text-[#6E6860] mt-1">
-                    Vaibhav Khand · Indirapuram Main Hub
+                    Gulmohar Greens · Mohan Nagar, Ghaziabad
                   </p>
                   <a
                     href={SALON_CONFIG.mapsUrl}
