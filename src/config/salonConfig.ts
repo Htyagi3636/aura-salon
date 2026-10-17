@@ -54,9 +54,9 @@ export const SALON_CONFIG = {
   name: 'AURA',
   fullName: 'AURA Unisex Salon & Studio',
   tagline: 'Your Beauty. Your Signature.',
-  locationBadge: 'DELHI NCR ATELIER · INDIRAPURAM',
-  address: 'Plot 14-B, Vaibhav Khand, Indirapuram, Ghaziabad, Delhi NCR 201014',
-  landmark: 'Near Shipra Mall & Aditya Mega City',
+  locationBadge: 'GHAZIABAD ATELIER · MOHAN NAGAR',
+  address: 'Gulmohar Greens, Mohan Nagar, Ghaziabad, Uttar Pradesh 201007',
+  landmark: 'Mohan Nagar · Ghaziabad 201007',
   phoneDisplay: '+91 98765 43210',
   phoneClean: '+919876543210',
   whatsappNumber: '919876543210', // Digits only in international format without + or spaces
@@ -64,7 +64,7 @@ export const SALON_CONFIG = {
   hours: 'Monday – Sunday: 10:00 AM – 09:00 PM',
   instagramHandle: '@aurasalonstudio',
   instagramUrl: 'https://instagram.com',
-  mapsUrl: 'https://maps.google.com/?q=Plot+14-B+Vaibhav+Khand+Indirapuram+Ghaziabad+201014',
+  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Gulmohar+Greens%2C+Mohan+Nagar%2C+Ghaziabad%2C+Uttar+Pradesh+201007',
   googleReviewPlaceholder: '4.9 ★ (520+ Discerning Patrons)',
 };
 
